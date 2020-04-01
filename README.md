@@ -2,7 +2,7 @@
 
 Write-ups of crackmes/reversing exercises
 
-Written in CherryTree note (.ctb) format
+Written in CherryTree note (.ctb) format (v0.38.9_1)
 
 ** This is not a professional write-up, just teaching it to my(future)self on how I manage to solve it.**
 
