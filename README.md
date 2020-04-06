@@ -14,6 +14,7 @@ Written in CherryTree note (.ctb) format (v0.38.9_1)
 + put the sources of the crackmes/reversing exercises
 + edit description
 + fix to-do list
++ revise the write-ups at later date
 
 ###### Notes #
 - improve your explanation, especially your english vocab
