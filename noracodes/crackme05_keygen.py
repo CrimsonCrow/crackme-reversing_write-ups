@@ -1,8 +1,6 @@
 import random
 
 def part1():
-    s = 0
-    p = ""
     while True:
         p = ""
         s = 0
@@ -16,8 +14,6 @@ def part1():
             return p
 
 def part2():
-    s = 0
-    p = ""
     while True:
         p = ""
         s = 0
@@ -31,8 +27,6 @@ def part2():
             return p
 
 def part3():
-    s = 0
-    p = ""
     while True:
         p = ""
         s = 0
@@ -46,8 +40,6 @@ def part3():
             return p
 
 def part4():
-    s = 0
-    p = ""
     while True:
         p = ""
         s = 0
